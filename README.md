@@ -52,36 +52,5 @@ Connect with me on:
 
 ---
 
-### GitHub Stats
-
-<!-- Main stats: include ALL commits + private activity -->
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=nikhildahiyaa&show_icons=true&include_all_commits=true&count_private=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildahiyaa&layout=compact"
-    height="160"
-  />
-</p>
-
-<!-- Optional streak card (reads the public contribution graph only) -->
-<p align="left">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=nikhildahiyaa&hide_border=true&count_private=true"
-  />
-</p>
-
-<!-- Guaranteed 166 display via a static badge -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Total%20Contributions-166-2ea44f?style=for-the-badge" />
-</p>
-
-
-<!-- Optional streak card (uses GitHub contribution graph; numbers may differ from the stats card) -->
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhildahiyaa&hide_border=true" />
-</p>
-
+### GitHub Stats <!-- Use Anuragh's stats (counts private + all commits if you enable it) --> <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nikhildahiyaa&show_icons=true&include_all_commits=true&count_private=true" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildahiyaa&layout=compact" height="160" /> </p> <!-- Optional streak card (uses GitHub contribution graph; numbers may differ from the stats card) --> <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhildahiyaa&hide_border=true" /> </p>
 
