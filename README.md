@@ -52,7 +52,4 @@ Connect with me on:
 
 ---
 
-**My GitHub Stats**
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhildahiyaa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
-
+### GitHub Stats <!--  (counts private + all commits if you enable it) --> <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nikhildahiyaa&show_icons=true&include_all_commits=true&count_private=true" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildahiyaa&layout=compact" height="160" /> </p> <!-- Optional streak card (uses GitHub contribution graph; numbers may differ from the stats card) --> <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhildahiyaa&hide_border=true" /> </p>
