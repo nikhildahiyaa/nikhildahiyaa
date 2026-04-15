@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Nikhil Dahiya
 
-I'm a Data Analyst who loves turning messy data into clear, decision‑ready insights. I enjoy forecasting, building dashboards, and shipping lightweight data apps. Always learning, always iterating.
+I'm a Data Scientist @ATB Financial who loves turning messy data into clear, decision‑ready insights. I enjoy forecasting, building dashboards, and shipping lightweight data apps. Always learning, always iterating.
 
 🌍 Based in Vancouver, Canada  
 🖥️ Check out my portfolio: **[nikhil-dahiya-portfolio.vercel.app](https://nikhil-dahiya-portfolio.vercel.app/)**  
